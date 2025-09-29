@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sobre mim 👾
 
-<!--
-**ThaisCarvalheiro7/ThaisCarvalheiro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Atualmente trabalho como jovem aprendiz na empresa Agrotis, auxiliando na área de ánalise de dados da equipe do suporte de TI.
 
-Here are some ideas to get you started:
+📓Estudante do curso de Engenharia de software na universidade UniBrasil, estudo também fora a faculdade JAVA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/ThaisCarvalheiro7/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThaisCarvalheiro7&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a
+</div>
+<hr>
+<div>
+  <a href="https://www.linkedin.com/in/thaiscarvalheiroc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
